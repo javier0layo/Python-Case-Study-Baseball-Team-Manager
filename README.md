@@ -2,7 +2,8 @@
 
 ****Objective**:Manage a baseball team
 Prepare the statistics of the baseball team before their game. This will help the coach pick the the best order of the players for the game. Thus, allowing them to win the game. 
-**Goal:** 
+
+Goal:** 
 1. Display lineup: Display the orignal members of the team and there statisitcs.
 2. Add player: Add a player to the team.
 3. Remove player: Remove player from the team.
