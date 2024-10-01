@@ -1,4 +1,4 @@
-# Pyhton case Study: Basebal Team Manager
+# Python case Study: Basebal Team Manager
 
 ****Objective**:Manage a baseball team
 Prepare the statistics of the baseball team before their game. This will help the coach pick the the best order of the players for the game. Thus, allowing them to win the game. 
